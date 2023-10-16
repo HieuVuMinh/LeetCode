@@ -25,8 +25,4 @@ public class ValidParentheses {
             return null;
         }
     }
-
-    public static void add_feature_1() {
-        System.out.println("add feature 1");
-    }
 }
