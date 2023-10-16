@@ -30,6 +30,10 @@ public class ValidParentheses {
         System.out.println("add feature 1");
     }
 
+    public static void add_feature_2() {
+        System.out.println("add feature 2");
+    }
+
     public static void add_feature_3() {
         System.out.println("add feature 3");
         System.out.println("update feature 3");
